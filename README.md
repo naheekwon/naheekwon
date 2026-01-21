@@ -47,18 +47,15 @@
 </div>
 <br/>
 <br/>
-<br/>
-<br/>
-
-<h2 align="center">Research Experience</h2>
+<h2 align="center" style="border-bottom: none;">
+  Research Experience
+</h2>
 
 <div align="center">
 
 <table>
-  <!-- Research Lab -->
   <tr style="height:80px;">
     <td style="width:25%; text-align:center; vertical-align:middle;">
-      <!-- Lab Logo (add later) -->
       <img src="./images/your_lab_logo.png" width="120">
     </td>
     <td style="width:75%; vertical-align:middle;">
@@ -81,6 +78,7 @@
 </table>
 
 </div>
+
 
 
 
