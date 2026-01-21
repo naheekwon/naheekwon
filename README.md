@@ -47,9 +47,7 @@
 </div>
 
 
----
-
-##  Research Experience
+## Research Experience
 
 <div align="center">
 
@@ -57,26 +55,22 @@
   <!-- Research Lab -->
   <tr style="height:80px;">
     <td style="width:25%; text-align:center; vertical-align:middle;">
-      <!-- Lab Logo -->
+      <!-- Lab Logo (add later) -->
       <img src="./images/your_lab_logo.png" width="120">
     </td>
     <td style="width:75%; vertical-align:middle;">
-      <b>Lab Name</b><br>
-      <i>Department / Institution Name</i>
+      <b>CSOS Lab</b><br>
+      <i>Department of Software Science, Dankook University</i>
     </td>
   </tr>
 
   <tr>
     <td colspan="2" style="padding-left:20px;">
       <ul style="margin-top:4px;">
-        <li><b>Position:</b> </li>
-        <li><b>Supervisor:</b> </li>
-        <li><b>Period:</b> </li>
-        <li><b>Location:</b> </li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li>🔗 <a href="">Lab Homepage</a></li>
+        <li><b>Position:</b> Research Intern</li>
+        <li><b>Supervisor:</b> Prof. Seongje Cho</li>
+        <li><b>Period:</b> September 2025 – Present</li>
+        <li><b>Location:</b> Yongin, Republic of Korea</li>
       </ul>
       <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
     </td>
@@ -84,9 +78,6 @@
 </table>
 
 </div>
-
----
-
 
 
 
