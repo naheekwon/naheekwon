@@ -57,10 +57,14 @@
 
 <h3 align="center">🔭 About me</h3>
 
-<table align="center" width="90%">
+<table align="center" style="min-width:700px; width:85%;">
+  <colgroup>
+    <col style="width:30%;">
+    <col style="width:70%;">
+  </colgroup>
   <tr>
-    <td width="30%"><strong>Major</strong></td>
-    <td width="70%">Cybersecurity</td>
+    <td><strong>Major</strong></td>
+    <td>Cybersecurity</td>
   </tr>
   <tr>
     <td><strong>Focus</strong></td>
@@ -79,6 +83,7 @@
     <td>Security · AI · Embedded · Android</td>
   </tr>
 </table>
+
 
 
 
