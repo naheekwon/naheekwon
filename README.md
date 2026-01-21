@@ -44,7 +44,8 @@
 <br/>
 <br/>
 
-## 🧠 Research Experience
+<div align="center">
+##  Research Experience
 
 <table>
   <tr>
@@ -78,6 +79,7 @@
   </tr>
 </table>
 
+</div>
 
 
 
@@ -181,6 +183,8 @@
   </tr>
 </table>
 
+</div>
+
 <br/>
 <br/>
 
@@ -222,6 +226,7 @@
   </tr>
 </table>
 
+</div>
 
 
 
