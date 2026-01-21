@@ -8,6 +8,14 @@
   <img src="images/southpark.gif" alt="Welcome to my Github Profile" />
 </div>
 
+<div align="center">
+  <img src="images/dollar3.gif" alt="Welcome to my Github Profile" />
+</div>
+
+<div align="center">
+  <img src="images/man20.gif" alt="Welcome to my Github Profile" />
+</div>
+
 
 </div>
 
