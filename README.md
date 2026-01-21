@@ -27,18 +27,16 @@
 <br/>
 <br/>
 <br/>
-<p>
-Hi there 👋<br>
-I'm <strong>Nahee</strong>, a <strong>Cybersecurity student</strong> who enjoys learning new technologies and conducting security-focused research.<br>
-Rather than solving general coding problems, I’m more interested in <strong>security analysis and research</strong>, exploring how systems can be protected (or broken).
-</p>
 
-<ul>
-  <li>🔭 Exploring <strong>Cybersecurity</strong></li>
-  <li>🔍 Focused on <strong>AI-driven Android & Embedded Security</strong></li>
-  <li>⚙️ Learning <strong>Python, Machine Learning, Deep Learning</strong></li>
-  <li>🧠 Interests: <strong>Security · AI · Embedded Systems</strong></li>
-</ul>
+
+| 🔭 | |
+|----|----|
+| Major | Cybersecurity |
+| Focus | AI-driven Android & Embedded Security |
+| Exploring | Python · ML · Deep Learning |
+| Research Style | AI-based Security Analysis |
+| Interests | Security · AI · Embedded |
+
 
 
 
