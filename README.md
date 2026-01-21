@@ -48,38 +48,7 @@
 <br/>
 <br/>
 
-
-
-
-<h2 align="center">Research Experience</h2>
-
-<div align="center">
-<table>
-  <tr>
-    <td style="width:25%; text-align:center; vertical-align:top;">
-      <img src="images/dankook_logo.png" width="120">
-    </td>
-
-    <td style="width:75%; vertical-align:top; padding-left:10px;">
-      <b>CSOS Lab</b><br>
-      <i>Department of Software Science, Dankook University</i><br><br>
-
-      <b>Position:</b> Research Intern<br>
-      <b>Supervisor:</b> Prof. Seongje Cho<br>
-      <b>Period:</b> September 2025 – Present<br>
-      <b>Location:</b> Yongin, Republic of Korea
-
-      <ul>
-        <li>Researching post-quantum cryptography (PQC) deployment on embedded systems using ARM TrustZone</li>
-        <li>Researching Android Secure IDS with <b>Illinois State University</b></li>
-        <li>Researching Embedded System Security with <b>Seoul National University, CSLab</b></li>
-        <li>🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</div>
-
+<h2 align="center"> Research Experience </h2> <div align="center"> <table> <tr style="height:80px;"> <td style="width:25%; text-align:center; vertical-align:middle;"> <img src="images/dankook_logo.png" width="120"> </td> <td style="width:75%; vertical-align:middle;"> <b>CSOS Lab</b><br> <i>Department of Software Science, Dankook University</i> </td> </tr> <tr> <td> <b>Position:</b> Research Intern<br> <b>Supervisor:</b> Prof. Seongje Cho<br> <b>Period:</b> September 2025 – Present<br> <b>Location:</b> Yongin, Republic of Korea <ul style="margin-top:10px;"> <li>Researching post-quantum cryptography (PQC) deployment on embedded systems using ARM TrustZone with secure secret isolation</li> <li>Researching Android Secure IDS with <b>Illinois State University</b> (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</li> <li>Researching Embedded System Security with <b>Seoul National University, CSLab</b> (Advisor: Prof. Jiwon Seo, Ph.D. Martin Kayondo)</li> <li>🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a></li> </ul> </td> </tr> </table>
 
 
 
