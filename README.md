@@ -5,7 +5,7 @@
   <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br/>
   <br/>
-  <img src="images/welcome.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+ 
 
 
 </div>
@@ -13,7 +13,9 @@
 
 
 
-
+<br/>
+<br/>
+<br/>
 <div align="center">
   <img src="images/skyline.gif" alt="Welcome to my Github Profile" />
 </div>
