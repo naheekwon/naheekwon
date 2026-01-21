@@ -113,40 +113,41 @@
 
 
 
-
 ##  Awards & Scholarships
 
+<div align="center">
 <table>
   <tr>
-    <th style="width:30%">Date</th>
-    <th style="width:55%">Award</th>
-    <th style="width:15%">Organization</th>
+    <th align="center" width="30%">Date</th>
+    <th align="center" width="55%">Award</th>
+    <th align="center" width="15%">Organization</th>
   </tr>
 
   <tr>
-    <td>Dec 2025</td>
-    <td>
+    <td align="center">Dec 2025</td>
+    <td align="center">
       <b>Cyber Security Contest 1st Place Award</b>
-      <ul>
+      <ul align="center">
         <li>“A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone”</li>
         <li>Implemented isolated secret-based computation for PQC Kyber</li>
       </ul>
     </td>
-    <td>Dankook University, Department of Cybersecurity</td>
+    <td align="center">Dankook University, Department of Cybersecurity</td>
   </tr>
 
   <tr>
-    <td>Sep 2025</td>
-    <td>
+    <td align="center">Sep 2025</td>
+    <td align="center">
       <b>Participation Prize (3rd Place) — Dankook Startup Hackathon</b>
-      <ul>
+      <ul align="center">
         <li>Lead developer and planner of <em>Ddobak</em>, an LLM-based speech correction application</li>
         <li>Recognized for innovative AI-driven assistive healthcare design</li>
       </ul>
     </td>
-    <td>Dankook University, National Center of Excellence in Software</td>
+    <td align="center">Dankook University, National Center of Excellence in Software</td>
   </tr>
 </table>
+</div>
 
 
 
