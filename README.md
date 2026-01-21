@@ -44,14 +44,12 @@
 <br/>
 <br/>
 
-## Research Experience
-
-<div align="center">
+## 🧠 Research Experience
 
 <table>
-  <tr style="height:80px;">
+  <tr>
     <td style="width:25%; text-align:center; vertical-align:middle;">
-      <img src="./images/dankook_logo.png" width="120">
+      <img src="./images/dankook_logo.png" width="120" alt="Dankook University Logo">
     </td>
     <td style="width:75%; vertical-align:middle;">
       <b>CSOS Lab</b><br>
@@ -62,29 +60,24 @@
   <tr>
     <td colspan="2" style="padding-left:20px;">
 
-      <!-- Meta -->
-      <ul style="margin-top:8px; margin-bottom:10px;">
-        <li><b>Position:</b> Research Intern</li>
-        <li><b>Supervisor:</b> Prof. Seongje Cho</li>
-        <li><b>Period:</b> September 2025 – Present</li>
-        <li><b>Location:</b> Yongin, Republic of Korea</li>
-      </ul>
-
-      <!-- Research -->
-      <ul style="margin-top:0px; margin-bottom:8px;">
-        <li>Investigating TEE-based secure deployment of post-quantum cryptography (PQC) with secret isolation on ARM TrustZone</li>
-        <li>Researching Android Secure IDS with Illinois State University (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</li>
-        <li>Researching Embedded System Security with Seoul National University, CSLab (Advisor: Prof. Jiwon Seo, Ph.D. Martin Kayondo)</li>
-        <li>🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a></li>
-      </ul>
-
+      <b>Position:</b> Research Intern<br>
+      <b>Supervisor:</b> Prof. Seongje Cho<br>
+      <b>Period:</b> September 2025 – Present<br>
+      <b>Location:</b> Yongin, Republic of Korea<br>
       <br>
+
+      <b>Research Topics</b><br>
+      • Investigating TEE-based secure deployment of post-quantum cryptography (PQC) with secret isolation on ARM TrustZone<br>
+      • Researching Android Secure IDS with Illinois State University (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)<br>
+      • Researching Embedded System Security with Seoul National University, CSLab (Advisor: Prof. Jiwon Seo, Ph.D. Martin Kayondo)<br>
+      <br>
+
+      🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a>
 
     </td>
   </tr>
 </table>
 
-</div>
 
 
 
