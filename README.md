@@ -54,11 +54,10 @@
       </td>
       <td style="width:75%; vertical-align:middle;">
         <b>CSOS Lab</b><br>
-        <i>Department of Software Science, Dankook University</i>
+        <i>Department of Software Science, Dankook University</i><br>
+        🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a>
       </td>
     </tr>
-
- 
   </table>
 </div>
 
@@ -75,10 +74,10 @@
     • Researching Android Secure IDS with <b>Illinois State University</b>
       (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)<br>
     • Researching Embedded System Security with <b>Seoul National University, CSLab</b>
-      (Advisor: Prof. Jiwon Seo, Ph.D. Martin Kayondo)<br>
-    • 🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a>
+      (Advisor: Prof. Jiwon Seo, Ph.D. Martin Kayondo)
   </p>
 </div>
+
 
 
 <br/>
