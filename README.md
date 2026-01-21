@@ -1,6 +1,3 @@
-
-
-```html
 <div align="center">
   <img src="images/earthsmall.gif" alt="Welcome to my Github Profile" />
 </div>
@@ -47,7 +44,7 @@
 <br/>
 <br/>
 
-## Research Experience
+##  Research Experience
 
 <table>
   <tr>
@@ -62,6 +59,7 @@
 
   <tr>
     <td colspan="2" style="padding-left:20px;">
+
       <b>Position:</b> Research Intern<br>
       <b>Supervisor:</b> Prof. Seongje Cho<br>
       <b>Period:</b> September 2025 – Present<br>
@@ -75,13 +73,16 @@
       <br>
 
       🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a>
+
     </td>
   </tr>
 </table>
 
-<br/>
-<br/>
 
+
+
+<br/>
+<br/>
 <div align="center">
 
 ## Education
@@ -95,7 +96,6 @@
 • Status: Undergraduate (Junior)
 
 </div>
-
 <br/>
 <br/>
 
@@ -110,11 +110,12 @@
     <th align="center" width="15%">Organization</th>
   </tr>
 
+  <!-- Awards -->
   <tr>
     <td align="center">Dec 2025</td>
     <td align="center">
       <b>Cyber Security Contest 1st Place Award</b>
-      <ul>
+      <ul align="center">
         <li>“A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone”</li>
         <li>Implemented isolated secret-based computation for PQC Kyber</li>
       </ul>
@@ -126,7 +127,7 @@
     <td align="center">Sep 2025</td>
     <td align="center">
       <b>Participation Prize (3rd Place) — Dankook Startup Hackathon</b>
-      <ul>
+      <ul align="center">
         <li>Lead developer and planner of <em>Ddobak</em>, an LLM-based speech correction application</li>
         <li>Recognized for innovative AI-driven assistive healthcare design</li>
       </ul>
@@ -134,11 +135,12 @@
     <td align="center">Dankook University, National Center of Excellence in Software</td>
   </tr>
 
+  <!-- Scholarships -->
   <tr>
     <td align="center">Mar 2022</td>
     <td align="center">
       <b>Admission Merit Scholarship</b>
-      <ul>
+      <ul align="center">
         <li>Awarded based on outstanding academic performance at admission</li>
       </ul>
     </td>
@@ -149,7 +151,7 @@
     <td align="center">Dec 2024 & Dec 2025</td>
     <td align="center">
       <b>Mileage Scholarship (2 Times)</b>
-      <ul>
+      <ul align="center">
         <li>Awarded twice based on accumulated academic and extracurricular achievements</li>
       </ul>
     </td>
@@ -160,7 +162,7 @@
     <td align="center">Feb 2025</td>
     <td align="center">
       <b>Academic Excellence Scholarship</b>
-      <ul>
+      <ul align="center">
         <li>Awarded for high academic achievement</li>
       </ul>
     </td>
@@ -171,15 +173,13 @@
     <td align="center">Sep 2025</td>
     <td align="center">
       <b>Danu Scholarship</b>
-      <ul>
+      <ul align="center">
         <li>Awarded for academic merit and contribution to university community</li>
       </ul>
     </td>
     <td align="center">Dankook University</td>
   </tr>
 </table>
-
-</div>  <!-- ✅ Awards div 닫기 -->
 
 <br/>
 <br/>
@@ -222,7 +222,16 @@
   </tr>
 </table>
 
-</div> <!-- ✅ Projects div 닫기 -->
+
+
+
+
+
+
+
+
+
+
 
 <br/>
 <br/>
@@ -248,7 +257,8 @@
 <br/>
 
 <div align="center">
-<pre><code>
+
+```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@                                                     @@
 @@            _        __                              @@
@@ -266,6 +276,4 @@
 @@                                                     @@
 @@                                                     @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-</code></pre>
-</div>
-
+``` 
