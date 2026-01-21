@@ -252,13 +252,6 @@
   <img src="images/skyline.gif" alt="Welcome to my Github Profile" />
 </div>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="images/riphome.gif" alt="riphome" />
-    <img src="images/email.gif" alt="email" />
-  
-</div>
-
 
 
 <br/>
