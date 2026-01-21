@@ -91,6 +91,7 @@
 </table>
 </div>
 
+<div align="center">
 ##  Education
 **Dankook University**  
 *B.E. in Cybersecurity*
