@@ -27,18 +27,7 @@
 <br/>
 <br/>
 <br/>
----
 
-## About Me
-
-I'm **Nahee**, a **Cybersecurity student** who enjoys learning new technologies and conducting security-focused research.  
-Rather than solving general coding problems, I’m more interested in **security analysis and research**, exploring how systems can be protected (or broken).
-
--  **Major:** Cybersecurity
--  Exploring **Embedded Systems** and **AI** from a security perspective
--  Currently studying **Python, Machine Learning, and Deep Learning**
--  Research interests include **AI-driven Android Security** and **Embedded Security**
--  Areas of interest: **Security · AI · Embedded Systems**
 
 
 
@@ -50,7 +39,6 @@ Rather than solving general coding problems, I’m more interested in **security
 <div align="center">
 
 |  |  |
-|:---:|:---:|
 | **Major** | Cybersecurity |
 | **Focus** | AI-driven Android & Embedded Security |
 | **Exploring** | Python · Machine Learning · Deep Learning |
