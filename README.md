@@ -47,6 +47,7 @@
 </div>
 <br/>
 <br/>
+
 <h2 align="center">
   Research Experience
 </h2>
@@ -74,7 +75,9 @@
       </ul>
 
       <ul style="margin-top:10px;">
-        
+        <li>Researching machine learning–based Android security and intrusion detection systems (IDS)</li>
+        <li>Studying IDS robustness under concept drift without retraining</li>
+        <li>Investigating graph-based system abstractions for IDS using API co-occurrence graphs and Social Network Analysis (SNA)</li>
         <li>Researching post-quantum cryptography (PQC) deployment on embedded systems using ARM TrustZone with secure secret isolation</li>
         <li>Researching Android Secure IDS with <b>Illinois State University</b> (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</li>
         <li>Researching Embedded System Security with <b>Seoul National University, CSLab</b> (Advisor: Prof. Jiwon Seo, Ph.D. Martin Kayondo)</li>
@@ -85,6 +88,7 @@
 </table>
 
 </div>
+
 
 
 
