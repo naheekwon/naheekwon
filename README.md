@@ -47,7 +47,9 @@
 </div>
 <br/>
 <br/>
-<h2 align="center" style="border-bottom: none;">
+
+
+<h2 align="center">
   Research Experience
 </h2>
 
@@ -72,7 +74,6 @@
         <li><b>Period:</b> September 2025 – Present</li>
         <li><b>Location:</b> Yongin, Republic of Korea</li>
       </ul>
-      <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
     </td>
   </tr>
 </table>
