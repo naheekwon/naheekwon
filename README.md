@@ -191,6 +191,45 @@
   </tr>
 </table>
 
+<br/>
+<br/>
+
+<div align="center">
+## Projects
+
+<table>
+  <tr>
+    <th style="width:4%">No.</th>
+    <th style="width:22%">Project</th>
+    <th style="width:60%">Description</th>
+    <th style="width:14%">Links</th>
+  </tr>
+
+  <tr>
+    <td align="center">[1]</td>
+    <td>
+      <b>LV.0: LLM Vulnerability Zero</b><br>
+      <sub>LLM-powered Security Vulnerability Reporter</sub>
+    </td>
+    <td>
+      <ul>
+        <li>Developed an AI-based static analysis and automated reporting framework for open-source vulnerabilities.</li>
+        <li>Integrated GitHub workflow automation and NLP-based risk summarization.</li>
+        <li>Led backend and AI system design using Flask and FastAPI.</li>
+      </ul>
+    </td>
+    <td align="center">
+      <div>
+        <a href="https://github.com/Gaurdians-of-the-Open-Source">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="90"/>
+        </a><br>
+        <a href="https://www.figma.com/design/DBPWTrTOebcozDLL7TA2B8/Open-Source-Developer-Competition?node-id=23-3">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" width="90"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 
