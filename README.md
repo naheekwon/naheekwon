@@ -113,8 +113,8 @@
 
 
 <div align="center">
-##  Awards & Scholarships
 
+## Awards & Scholorships
 
 <table>
   <tr>
