@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="images/earthsmall.gif" alt="Welcome to my Github Profile" />
 </div>
@@ -10,7 +9,6 @@
 <!-- "Hero" Header -->
 <div align="center">
   <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-
 </div>
 
 <br/>
@@ -18,9 +16,7 @@
 <br/>
 <br/>
 
-
 <div align="center">
-
 <table>
   <tr>
     <td align="center"><strong>Major</strong></td>
@@ -43,40 +39,42 @@
     <td align="center">Security of AI · Embedded · Android</td>
   </tr>
 </table>
-
 </div>
+
 <br/>
 <br/>
 
-
-<h2 align="center">
-  Research Experience
-</h2>
+<h2 align="center">Research Experience</h2>
 
 <div align="center">
-
 <table>
-  <tr style="height:80px;">
+  <tr>
     <td style="width:25%; text-align:center; vertical-align:middle;">
-      <img src="images/dankook_logo.png" width="120">
+      <img src="./images/dankook_logo.png" width="120">
     </td>
-
     <td style="width:75%; vertical-align:middle;">
       <b>CSOS Lab</b><br>
-      <i>Department of Software Science, Dankook University</i><br><br>
+      <i>Department of Software Science, Dankook University</i>
+    </td>
+  </tr>
 
-      <b>Position:</b> Research Intern<br>
-      <b>Supervisor:</b> Prof. Seongje Cho<br>
-      <b>Period:</b> September 2025 – Present<br>
-      <b>Location:</b> Yongin, Republic of Korea
+  <tr>
+    <td colspan="2" style="padding-left:20px; padding-top:6px;">
+      <p>
+        <b>Position:</b> Research Intern<br>
+        <b>Supervisor:</b> Prof. Seongje Cho<br>
+        <b>Period:</b> September 2025 – Present<br>
+        <b>Location:</b> Yongin, Republic of Korea
+      </p>
 
-      <ul style="margin-top:10px;">
+      <ul>
         <li>
-          Researching post-quantum cryptography (PQC) deployment on embedded systems
-          using ARM TrustZone with secure secret isolation
+          Investigating TEE-based secure deployment of
+          post-quantum cryptography (PQC) on ARM TrustZone
         </li>
         <li>
-          Researching Android Secure IDS with <b>Illinois State University</b>
+          Researching Android Secure IDS with
+          <b>Illinois State University</b>
           (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)
         </li>
         <li>
@@ -91,40 +89,33 @@
     </td>
   </tr>
 </table>
-
 </div>
 
-
-##  Education
-**Dankook University**  
-*B.E. in Cybersecurity*
-- Period: Mar 2022 – Expected Jan 2027  
-- Location: Yongin, Republic of Korea  
-- GPA: 3.95 / 4.5  
-- Status: Undergraduate (Junior)
-
-
-
-
-
-
-
-
-
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <div align="center">
   <img src="images/skyline.gif" alt="Welcome to my Github Profile" />
 </div>
+
 <br/>
 <br/>
+
 <div align="center">
 
-</div>
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@                                                     @@
@@ -143,19 +134,3 @@
 @@                                                     @@
 @@                                                     @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-  
-<!--
-**naheekwon/naheekwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
