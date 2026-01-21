@@ -106,11 +106,8 @@
 • Status: Undergraduate (Junior)
 
 </div>
-
-
-
-
-
+<br/>
+<br/>
 
 <div align="center">
 
