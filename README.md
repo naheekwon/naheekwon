@@ -3,7 +3,6 @@
   <img src="images/earthsmall.gif" alt="Welcome to my Github Profile" />
 </div>
 <br/>
-<br/>
 <div align="center">
   <img src="images/man20.gif" alt="Welcome to my Github Profile" />
 </div>
@@ -29,7 +28,7 @@
 <br/>
 <br/>
 
-<h3 align="center">🔭 About me </h3>
+<h3 align="center"> About me </h3>
 
 
 
