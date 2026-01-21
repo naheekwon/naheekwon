@@ -28,27 +28,7 @@
 <br/>
 <br/>
 
-<div align="center">
 
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@                                                     @@
-@@                    __                               @@
-@@            [==]    |@@|                             @@
-@@           [____]__ \--/ __                          @@
-@@              |__|----|  |   __                      @@
-@@                  | || /\ )_ / _\                    @@
-@@                  ||__|| \__O (__                    @@
-@@                [--||--]    \__/                     @@
-@@                 _||_  _||_                          @@
-@@                `--''--''--`                         @@
-@@                                                     @@
-@@         while (!(success = try()));                 @@
-@@                Catch a new wave --!                 @@
-@@                                                     @@
-@@                                                     @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
 
 <br/>
 <div align="center">
@@ -102,7 +82,29 @@
 <div align="center">
   <img src="images/skyline.gif" alt="Welcome to my Github Profile" />
 </div>
+<br/>
+<br/>
+<div align="center">
 
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@                                                     @@
+@@                    __                               @@
+@@            [==]    |@@|                             @@
+@@           [____]__ \--/ __                          @@
+@@              |__|----|  |   __                      @@
+@@                  | || /\ )_ / _\                    @@
+@@                  ||__|| \__O (__                    @@
+@@                [--||--]    \__/                     @@
+@@                 _||_  _||_                          @@
+@@                `--''--''--`                         @@
+@@                                                     @@
+@@         while (!(success = try()));                 @@
+@@                Catch a new wave --!                 @@
+@@                                                     @@
+@@                                                     @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
   
 <!--
 **naheekwon/naheekwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
