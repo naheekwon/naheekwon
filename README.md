@@ -112,10 +112,10 @@
 
 
 
-
+<div align="center">
 ##  Awards & Scholarships
 
-<div align="center">
+
 <table>
   <tr>
     <th align="center" width="30%">Date</th>
