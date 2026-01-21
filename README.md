@@ -253,7 +253,7 @@
 </div>
 
 <div align="center">
-  <img src="images/riphome.gif" alt="riphome" style="margin-top: -20px;" />
+  <img src="images/riphome.gif" alt="riphome" style="transform: translateY(-6px);" />
   <img src="images/email.gif" alt="bracket" style="vertical-align:middle;">
 </div>
 
