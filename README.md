@@ -44,47 +44,51 @@
 <br/>
 <br/>
 
+<h2 align="center">Research Experience</h2>
 
 <div align="center">
+  <table>
+    <tr>
+      <td style="width:25%; text-align:center; vertical-align:middle;">
+        <img src="./images/dankook_logo.png" width="120">
+      </td>
+      <td style="width:75%; vertical-align:middle;">
+        <b>CSOS Lab</b><br>
+        <i>Department of Software Science, Dankook University</i>
+      </td>
+    </tr>
 
-## Research Experience
-  
-<table>
-  <tr>
-    <td style="width:25%; text-align:center; vertical-align:middle;">
-      <img src="./images/dankook_logo.png" width="120">
-    </td>
-    <td style="width:75%; vertical-align:middle;">
-      <b>CSOS Lab</b><br>
-      <i>Department of Software Science, Dankook University</i>
-    </td>
-  </tr>
+    <tr>
+      <td colspan="2" style="padding-left:20px; padding-top:6px;">
+        <p>
+          <b>Position:</b> Research Intern<br>
+          <b>Supervisor:</b> Prof. Seongje Cho<br>
+          <b>Period:</b> September 2025 – Present<br>
+          <b>Location:</b> Yongin, Republic of Korea
+        </p>
 
-  <tr>
-    <td colspan="2" style="padding-left:20px; padding-top:6px;">
-      <p>
-        <b>Position:</b> Research Intern<br>
-        <b>Supervisor:</b> Prof. Seongje Cho<br>
-        <b>Period:</b> September 2025 – Present<br>
-        <b>Location:</b> Yongin, Republic of Korea<br><br>
-
-        <b>Research Topics</b><br>
-
-        <b>• Investigating TEE-based secure deployment of post-quantum cryptography (PQC) on ARM TrustZone</b><br>
-
-        <b>• Researching Android Secure IDS with <span><b>Illinois State University</b></span>
-        (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</b><br>
-
-        <b>• Researching Embedded System Security with <span><b>Seoul National University, CSLab</b></span>
-        (Advisor: Prof. Jiwon Seo, Ph.D. Martin Kayondo)</b><br>
-
-        <b>• 🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a></b>
-      </p>
-    </td>
-  </tr>
-</table>
-
+        <ul>
+          <li>
+            Investigating TEE-based secure deployment of post-quantum cryptography (PQC) on ARM TrustZone
+          </li>
+          <li>
+            Researching Android Secure IDS with <b>Illinois State University</b>
+            (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)
+          </li>
+          <li>
+            Researching Embedded System Security with <b>Seoul National University, CSLab</b>
+            (Advisor: Prof. Jiwon Seo, Ph.D. Martin Kayondo)
+          </li>
+          <li>
+            🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 
 <br/>
 <br/>
