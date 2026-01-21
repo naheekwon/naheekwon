@@ -250,6 +250,8 @@
 
 <div align="center">
   <img src="images/skyline.gif" alt="Welcome to my Github Profile" />
+  <br />
+  <img src="images/marquee.svg" alt="marquee" />
 </div>
 
 
