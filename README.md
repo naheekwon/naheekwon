@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-<h3 align="center">🔭 Explorer Profile</h3>
+<h3 align="center">🔭 About me </h3>
 
 <table align="center">
   <tr>
@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td><strong>Interests</strong></td>
-    <td>Security · AI · Embedded</td>
+    <td>Security · AI · Embedded · Android</td>
   </tr>
 </table>
 
