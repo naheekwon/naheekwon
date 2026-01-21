@@ -47,7 +47,6 @@
 </div>
 <br/>
 <br/>
-
 <h2 align="center">
   Research Experience
 </h2>
@@ -67,18 +66,25 @@
 
   <tr>
     <td colspan="2" style="padding-left:20px;">
-      <ul style="margin-top:4px;">
+      <ul style="margin-top:6px;">
         <li><b>Position:</b> Research Intern</li>
         <li><b>Supervisor:</b> Prof. Seongje Cho</li>
         <li><b>Period:</b> September 2025 – Present</li>
         <li><b>Location:</b> Yongin, Republic of Korea</li>
+      </ul>
+
+      <ul style="margin-top:10px;">
+        
+        <li>Researching post-quantum cryptography (PQC) deployment on embedded systems using ARM TrustZone with secure secret isolation</li>
+        <li>Researching Android Secure IDS with <b>Illinois State University</b> (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</li>
+        <li>Researching Embedded System Security with <b>Seoul National University, CSLab</b> (Advisor: Prof. Jiwon Seo, Ph.D. Martin Kayondo)</li>
+        <li>🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a></li>
       </ul>
     </td>
   </tr>
 </table>
 
 </div>
-
 
 
 
