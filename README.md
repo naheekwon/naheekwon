@@ -5,7 +5,12 @@
   <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br/>
   <br/>
- 
+  <br/>
+  <br/>
+  
+<div align="center">
+  <img src="images/southpark.gif" alt="Welcome to my Github Profile" />
+</div>
 
 
 </div>
@@ -38,10 +43,6 @@ Rather than solving general coding problems, I’m more interested in <strong>se
 <br/>
 <div align="center">
   <img src="images/skyline.gif" alt="Welcome to my Github Profile" />
-</div>
-
-<div align="center">
-  <img src="images/southpark.gif" alt="Welcome to my Github Profile" />
 </div>
 
   
