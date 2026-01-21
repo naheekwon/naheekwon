@@ -252,6 +252,16 @@
   <img src="images/skyline.gif" alt="Welcome to my Github Profile" />
 </div>
 
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="images/riphome.gif" alt="riphome" />
+
+    <a href="mailto:alsrl030902@dankook.ac.kr">
+      <img src="images/].gif" alt="email" />
+    </a>
+  </div>
+</div>
+
 <br/>
 <br/>
 
