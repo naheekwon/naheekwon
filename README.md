@@ -47,6 +47,46 @@
 </div>
 
 
+---
+
+##  Research Experience
+
+<div align="center">
+
+<table>
+  <!-- Research Lab -->
+  <tr style="height:80px;">
+    <td style="width:25%; text-align:center; vertical-align:middle;">
+      <!-- Lab Logo -->
+      <img src="./images/your_lab_logo.png" width="120">
+    </td>
+    <td style="width:75%; vertical-align:middle;">
+      <b>Lab Name</b><br>
+      <i>Department / Institution Name</i>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" style="padding-left:20px;">
+      <ul style="margin-top:4px;">
+        <li><b>Position:</b> </li>
+        <li><b>Supervisor:</b> </li>
+        <li><b>Period:</b> </li>
+        <li><b>Location:</b> </li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li>🔗 <a href="">Lab Homepage</a></li>
+      </ul>
+      <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 
 
 
