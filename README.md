@@ -26,12 +26,12 @@ Rather than solving general coding problems, I’m more interested in <strong>se
 </p>
 
 <ul>
-  <li>🔭 Major: <strong>Cybersecurity</strong></li>
-  <li>🔍 I enjoy exploring <strong>Embedded Systems</strong> and <strong>AI</strong> from a security perspective</li>
-  <li>🌱 Currently studying <strong>Python, Machine Learning, and Deep Learning</strong></li>
-  <li>🔐 Research interests include <strong> AI-driven Android Security</strong> and <strong>Embedded Security</strong></li>
-  <li>🧠 Areas of interest: <strong>Security, AI, Embedded Systems</strong></li>
+  <li>🔭 Exploring <strong>Cybersecurity</strong></li>
+  <li>🔍 Focused on <strong>AI-driven Android & Embedded Security</strong></li>
+  <li>🤖 Learning <strong>Python, Machine Learning, Deep Learning</strong></li>
+  <li>🧠 Interests: <strong>Security · AI · Embedded Systems</strong></li>
 </ul>
+
 
 <p>
 📫 Reach me at:
