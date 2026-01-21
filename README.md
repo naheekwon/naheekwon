@@ -195,6 +195,7 @@
 <br/>
 
 <div align="center">
+
 ## Projects
 
 <table>
