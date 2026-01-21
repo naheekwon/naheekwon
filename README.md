@@ -44,9 +44,11 @@
 <br/>
 <br/>
 
-<h2 align="center">Research Experience</h2>
 
 <div align="center">
+
+## Research Experience
+  
 <table>
   <tr>
     <td style="width:25%; text-align:center; vertical-align:middle;">
