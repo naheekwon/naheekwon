@@ -48,10 +48,9 @@
 <br/>
 <br/>
 
-
-<h2 align="center">
-  Research Experience
-</h2>
+<p align="center">
+  <strong style="font-size: 22px;">Research Experience</strong>
+</p>
 
 <div align="center">
 
