@@ -45,9 +45,12 @@
 </table>
 
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
 
-
-## Research Experience
+<h2 align="center">Research Experience</h2>
 
 <div align="center">
 
