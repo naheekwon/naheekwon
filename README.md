@@ -253,9 +253,10 @@
 </div>
 
 <div align="center">
-  <img src="images/riphome.gif" alt="riphome">
-  <img src="images/email.gif" alt="email">
+  <img src="images/riphome.gif" alt="riphome" style="vertical-align:middle;">
+  <img src="images/%5D.gif" alt="bracket" style="vertical-align:middle;">
 </div>
+
 
 
 <br/>
