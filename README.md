@@ -55,34 +55,15 @@
 
 
 
-<h3 align="center">🔭 About me</h3>
+### 🔭 About me
 
-<table align="center" style="min-width:700px; width:85%;">
-  <colgroup>
-    <col style="width:30%;">
-    <col style="width:70%;">
-  </colgroup>
-  <tr>
-    <td><strong>Major</strong></td>
-    <td>Cybersecurity</td>
-  </tr>
-  <tr>
-    <td><strong>Focus</strong></td>
-    <td>AI-driven Android & Embedded Security</td>
-  </tr>
-  <tr>
-    <td><strong>Exploring</strong></td>
-    <td>Python · ML · Deep Learning</td>
-  </tr>
-  <tr>
-    <td><strong>Research Style</strong></td>
-    <td>AI-based Security Analysis</td>
-  </tr>
-  <tr>
-    <td><strong>Interests</strong></td>
-    <td>Security · AI · Embedded · Android</td>
-  </tr>
-</table>
+| Category | Description |
+|---|---|
+| **Major** | Cybersecurity |
+| **Focus** | AI-driven Android & Embedded Security |
+| **Exploring** | Python · Machine Learning · Deep Learning |
+| **Research Style** | AI-based Security Analysis |
+| **Interests** | Security · AI · Embedded · Android |
 
 
 
