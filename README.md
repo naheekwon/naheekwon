@@ -48,9 +48,12 @@
 <br/>
 <br/>
 
-<p align="center">
-  <strong style="font-size: 40px;">Research Experience</strong>
-</p>
+<div align="center" style="margin: 16px 0;">
+  <span style="font-size: 36px; font-weight: 700;">
+    Research Experience
+  </span>
+</div>
+
 
 <div align="center">
 
