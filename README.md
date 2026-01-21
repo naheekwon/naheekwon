@@ -62,7 +62,31 @@
   </table>
 </div>
 
+<div align="center">
+  <p>
+    <b>Position:</b> Research Intern<br>
+    <b>Supervisor:</b> Prof. Seongje Cho<br>
+    <b>Period:</b> September 2025 – Present<br>
+    <b>Location:</b> Yongin, Republic of Korea
+  </p>
 
+  <ul style="display:inline-block; text-align:left;">
+    <li>
+      Investigating TEE-based secure deployment of post-quantum cryptography (PQC) on ARM TrustZone
+    </li>
+    <li>
+      Researching Android Secure IDS with <b>Illinois State University</b>
+      (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)
+    </li>
+    <li>
+      Researching Embedded System Security with <b>Seoul National University, CSLab</b>
+      (Advisor: Prof. Jiwon Seo, Ph.D. Martin Kayondo)
+    </li>
+    <li>
+      🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a>
+    </li>
+  </ul>
+</div>
 
 <br/>
 <br/>
