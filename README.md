@@ -57,7 +57,7 @@
 <table>
   <tr style="height:80px;">
     <td style="width:25%; text-align:center; vertical-align:middle;">
-      <img src="./images/your_lab_logo.png" width="120">
+      <img src="./images/dankook_logo.png" width="120">
     </td>
     <td style="width:75%; vertical-align:middle;">
       <b>CSOS Lab</b><br>
@@ -78,6 +78,7 @@
 </table>
 
 </div>
+
 
 
 
