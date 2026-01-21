@@ -1,8 +1,9 @@
-## Hi there 👋
+
 
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/naheekwon/naheekwon/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+
 
 
 </div>
