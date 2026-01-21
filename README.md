@@ -34,16 +34,18 @@
 <h3 align="center"> About me </h3>
 
 
-
-
 <div align="center">
 
 |  |  |
+|:---:|:---:|
 | **Major** | Cybersecurity |
 | **Focus** | AI-driven Android & Embedded Security |
 | **Exploring** | Python · Machine Learning · Deep Learning |
 | **Research Style** | AI-based Security Analysis |
 | **Interests** | Security · AI · Embedded · Android |
+
+</div>
+
 
 </div>
 
