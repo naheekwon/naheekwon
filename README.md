@@ -17,7 +17,7 @@
 
 </div>
 
-<h2> About Me</h2>
+
 
 <p>
 Hi there 👋<br>
@@ -33,10 +33,6 @@ Rather than solving general coding problems, I’m more interested in <strong>se
 </ul>
 
 
-<p>
-📫 Reach me at:
-<a href="https://github.com/your-github-id">https://github.com/your-github-id</a>
-</p>
 
 
 
