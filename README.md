@@ -28,14 +28,30 @@
 <br/>
 <br/>
 
+<h3 align="center">🔭 Explorer Profile</h3>
 
-| 🔭 | |
-|----|----|
-| Major | Cybersecurity |
-| Focus | AI-driven Android & Embedded Security |
-| Exploring | Python · ML · Deep Learning |
-| Research Style | AI-based Security Analysis |
-| Interests | Security · AI · Embedded |
+<table align="center">
+  <tr>
+    <td><strong>Major</strong></td>
+    <td>Cybersecurity</td>
+  </tr>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>AI-driven Android & Embedded Security</td>
+  </tr>
+  <tr>
+    <td><strong>Exploring</strong></td>
+    <td>Python · ML · Deep Learning</td>
+  </tr>
+  <tr>
+    <td><strong>Research Style</strong></td>
+    <td>AI-based Security Analysis</td>
+  </tr>
+  <tr>
+    <td><strong>Interests</strong></td>
+    <td>Security · AI · Embedded</td>
+  </tr>
+</table>
 
 
 
