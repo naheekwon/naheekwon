@@ -29,45 +29,28 @@
 <br/>
 
 
-
-
-<h3 align="center"> About me </h3>
-
-
-<div align="center">
-
-|  |  |
-|:---:|:---:|
-| **Major** | Cybersecurity |
-| **Focus** | AI-driven Android & Embedded Security |
-| **Exploring** | Python · Machine Learning · Deep Learning |
-| **Research Style** | AI-based Security Analysis |
-| **Interests** | Security · AI · Embedded · Android |
-
-</div>
-
 <div align="center">
 
 <table>
   <tr>
-    <td><strong>Major</strong></td>
-    <td>Cybersecurity</td>
+    <td align="center"><strong>Major</strong></td>
+    <td align="center">Cybersecurity</td>
   </tr>
   <tr>
-    <td><strong>Focus</strong></td>
-    <td>AI-driven Android & Embedded Security</td>
+    <td align="center"><strong>Focus</strong></td>
+    <td align="center">AI-driven Android & Embedded Security</td>
   </tr>
   <tr>
-    <td><strong>Exploring</strong></td>
-    <td>Python · Machine Learning · Deep Learning</td>
+    <td align="center"><strong>Exploring</strong></td>
+    <td align="center">Python · Machine Learning · Deep Learning</td>
   </tr>
   <tr>
-    <td><strong>Research Style</strong></td>
-    <td>AI-based Security Analysis</td>
+    <td align="center"><strong>Research Style</strong></td>
+    <td align="center">AI-based Security Analysis</td>
   </tr>
   <tr>
-    <td><strong>Interests</strong></td>
-    <td>Security · AI · Embedded · Android</td>
+    <td align="center"><strong>Interests</strong></td>
+    <td align="center">Security · AI · Embedded · Android</td>
   </tr>
 </table>
 
