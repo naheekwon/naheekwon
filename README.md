@@ -49,7 +49,7 @@
 <br/>
 
 <p align="center">
-  <strong style="font-size: 22px;">Research Experience</strong>
+  <strong style="font-size: 40px;">Research Experience</strong>
 </p>
 
 <div align="center">
