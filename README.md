@@ -254,7 +254,7 @@
 
 <div align="center">
   <img src="images/riphome.gif" alt="riphome">
-  <img src="images/].gif" alt="email">
+  <img src="images/email.gif" alt="email">
 </div>
 
 
