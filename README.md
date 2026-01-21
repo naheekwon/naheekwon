@@ -120,6 +120,7 @@
     <th align="center" width="15%">Organization</th>
   </tr>
 
+  <!-- Awards -->
   <tr>
     <td align="center">Dec 2025</td>
     <td align="center">
@@ -143,8 +144,52 @@
     </td>
     <td align="center">Dankook University, National Center of Excellence in Software</td>
   </tr>
+
+  <!-- Scholarships -->
+  <tr>
+    <td align="center">Mar 2022</td>
+    <td align="center">
+      <b>Admission Merit Scholarship</b>
+      <ul align="center">
+        <li>Awarded based on outstanding academic performance at admission</li>
+      </ul>
+    </td>
+    <td align="center">Dankook University</td>
+  </tr>
+
+  <tr>
+    <td align="center">Dec 2024 & Dec 2025</td>
+    <td align="center">
+      <b>Mileage Scholarship (2 Times)</b>
+      <ul align="center">
+        <li>Awarded twice based on accumulated academic and extracurricular achievements</li>
+      </ul>
+    </td>
+    <td align="center">Dankook University</td>
+  </tr>
+
+  <tr>
+    <td align="center">Feb 2025</td>
+    <td align="center">
+      <b>Academic Excellence Scholarship</b>
+      <ul align="center">
+        <li>Awarded for high academic achievement</li>
+      </ul>
+    </td>
+    <td align="center">Dankook University</td>
+  </tr>
+
+  <tr>
+    <td align="center">Sep 2025</td>
+    <td align="center">
+      <b>Danu Scholarship</b>
+      <ul align="center">
+        <li>Awarded for academic merit and contribution to university community</li>
+      </ul>
+    </td>
+    <td align="center">Dankook University</td>
+  </tr>
 </table>
-</div>
 
 
 
