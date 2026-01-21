@@ -7,20 +7,12 @@
   <img src="images/man20.gif" alt="Welcome to my Github Profile" />
 </div>
 
-
-
 <!-- "Hero" Header -->
 <div align="center">
   <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
-
-
 </div>
 
-
-
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -28,9 +20,6 @@
 <br/>
 <br/>
 
-
-
-<br/>
 <div align="center">
 
 <table>
@@ -89,7 +78,7 @@
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@                                                     @@
-@@                    __                               @@
+@@            _        __                              @@
 @@            [==]    |@@|                             @@
 @@           [____]__ \--/ __                          @@
 @@              |__|----|  |   __                      @@
