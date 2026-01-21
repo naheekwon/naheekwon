@@ -54,16 +54,18 @@
 </table>
 
 
+<div align="center">
 
-### 🔭 About me
-
-| Category | Description |
-|---|---|
+|  |  |
+|:---:|:---:|
 | **Major** | Cybersecurity |
 | **Focus** | AI-driven Android & Embedded Security |
 | **Exploring** | Python · Machine Learning · Deep Learning |
 | **Research Style** | AI-based Security Analysis |
 | **Interests** | Security · AI · Embedded · Android |
+
+</div>
+
 
 
 
