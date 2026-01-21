@@ -44,12 +44,11 @@
 <br/>
 <br/>
 
-## 🧠 Research Experience
+## Research Experience
 
 <div align="center">
 
 <table>
-  <!-- DKU CSOS Lab -->
   <tr style="height:80px;">
     <td style="width:25%; text-align:center; vertical-align:middle;">
       <img src="./images/dankook_logo.png" width="120">
@@ -62,25 +61,31 @@
 
   <tr>
     <td colspan="2" style="padding-left:20px;">
-      <ul style="margin-top:4px;">
+
+      <!-- Meta -->
+      <ul style="margin-top:8px; margin-bottom:10px;">
         <li><b>Position:</b> Research Intern</li>
         <li><b>Supervisor:</b> Prof. Seongje Cho</li>
         <li><b>Period:</b> September 2025 – Present</li>
         <li><b>Location:</b> Yongin, Republic of Korea</li>
+      </ul>
 
+      <!-- Research -->
+      <ul style="margin-top:0px; margin-bottom:8px;">
         <li>Investigating TEE-based secure deployment of post-quantum cryptography (PQC) with secret isolation on ARM TrustZone</li>
-        <li>Researching Android Secure IDS with <b>Illinois State University</b> (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</li>
-        <li>Researching Embedded System Security with <b>Seoul National University, CSLab</b> (Advisor: Prof. Jiwon Seo, Ph.D. Martin Kayondo)</li>
-
+        <li>Researching Android Secure IDS with Illinois State University (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</li>
+        <li>Researching Embedded System Security with Seoul National University, CSLab (Advisor: Prof. Jiwon Seo, Ph.D. Martin Kayondo)</li>
         <li>🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a></li>
       </ul>
 
-      <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
+      <br>
+
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 <br/>
