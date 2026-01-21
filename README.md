@@ -17,8 +17,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 <div align="center">
 
@@ -41,7 +40,7 @@
   </tr>
   <tr>
     <td align="center"><strong>Interests</strong></td>
-    <td align="center">Security · AI · Embedded · Android</td>
+    <td align="center">Security of AI · Embedded · Android</td>
   </tr>
 </table>
 
