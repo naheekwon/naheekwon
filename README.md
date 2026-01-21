@@ -253,8 +253,10 @@
 </div>
 
 <div align="center">
-  <img src="images/riphome.gif" alt="riphome" style="transform: translateY(-20px);" />
-  <img src="images/email.gif" alt="bracket" style="vertical-align:middle;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="images/riphome.gif" alt="riphome" />
+    <img src="images/email.gif" alt="email" />
+  
 </div>
 
 
