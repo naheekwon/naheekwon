@@ -5,8 +5,6 @@
   <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br/>
   <br/>
-  <br/>
-  <br/>
   
 <div align="center">
   <img src="images/southpark.gif" alt="Welcome to my Github Profile" />
