@@ -249,7 +249,7 @@
 <br/>
 
 <div align="center">
-  <img src="images/skyline.gif" alt="Welcome to my Github Profile" />
+  <img src="images/compmail.gif" alt="Welcome to my Github Profile" />
 </div>
 
 <br/>
