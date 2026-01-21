@@ -13,6 +13,10 @@
 
 
 
+
+
+  <img src="images/skyline.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  
 <!--
 **naheekwon/naheekwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
