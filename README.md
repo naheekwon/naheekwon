@@ -28,7 +28,7 @@ Rather than solving general coding problems, I’m more interested in <strong>se
 <ul>
   <li>🔭 Exploring <strong>Cybersecurity</strong></li>
   <li>🔍 Focused on <strong>AI-driven Android & Embedded Security</strong></li>
-  <li>🤖 Learning <strong>Python, Machine Learning, Deep Learning</strong></li>
+  <li>⚙️ Learning <strong>Python, Machine Learning, Deep Learning</strong></li>
   <li>🧠 Interests: <strong>Security · AI · Embedded Systems</strong></li>
 </ul>
 
