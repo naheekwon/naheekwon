@@ -91,6 +91,15 @@
 </table>
 </div>
 
+##  Education
+**Dankook University**  
+*B.E. in Cybersecurity*
+- Period: Mar 2021 – Expected Jan 2027  
+- Location: Yongin, Republic of Korea  
+- GPA: 3.95 / 4.5 
+- Status: Undergraduate (Junior)
+
+
 <br/>
 <br/>
 <br/>
@@ -134,3 +143,4 @@
 @@                                                     @@
 @@                                                     @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
