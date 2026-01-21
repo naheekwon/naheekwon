@@ -48,12 +48,9 @@
 <br/>
 <br/>
 
-<div align="center" style="margin: 16px 0;">
-  <span style="font-size: 36px; font-weight: 700;">
-    Research Experience
-  </span>
-</div>
-
+<h2 align="center">
+  Research Experience
+</h2>
 
 <div align="center">
 
@@ -81,6 +78,7 @@
 </table>
 
 </div>
+
 
 
 
