@@ -2,7 +2,7 @@
 <div align="center">
   <img src="images/earthsmall.gif" alt="Welcome to my Github Profile" />
 </div>
-
+<br/>
 <div align="center">
   <img src="images/man20.gif" alt="Welcome to my Github Profile" />
 </div>
