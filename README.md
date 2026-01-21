@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="images/dollar3.gif" alt="Welcome to my Github Profile" />
+  <img src="images/earthsmall.gif" alt="Welcome to my Github Profile" />
 </div>
 
 <div align="center">
