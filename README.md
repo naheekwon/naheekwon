@@ -161,9 +161,9 @@
   </tr>
 
   <tr>
-    <td align="center">Feb 2025</td>
+    <td align="center">Feb 2025 & Feb 2026</td>
     <td align="center">
-      <b>Academic Excellence Scholarship</b>
+      <b>Academic Excellence Scholarship (2 Times)</b>
       <ul align="center">
         <li>Awarded for high academic achievement</li>
       </ul>
