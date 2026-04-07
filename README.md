@@ -223,6 +223,28 @@
       </div>
     </td>
   </tr>
+
+  <tr>
+    <td align="center">[2]</td>
+    <td>
+      <b>C-STAR</b><br>
+      <sub>Cost-Aware Adaptive Learning under Concept Drift for Android Malware Detection</sub>
+    </td>
+    <td>
+      <ul>
+        <li>Proposed a drift-aware Android malware detection framework that determines when to update and how much to update under resource constraints.</li>
+        <li>Combined structural drift monitoring, informative sample prioritization, and cost-aware update optimization for selective model adaptation.</li>
+        <li>Reduced update data usage, computational overhead, and forgetting risk while maintaining detection performance comparable to cumulative retraining.</li>
+      </ul>
+    </td>
+    <td align="center">
+      <div>
+        <a href="YOUR_GITHUB_LINK_HERE">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="90"/>
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 
