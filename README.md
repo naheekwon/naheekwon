@@ -206,7 +206,7 @@
       <sub>LLM-powered Security Vulnerability Reporter</sub>
     </td>
     <td>
-      <ul>
+      <ul style="padding-left:18px; margin:0;">
         <li>Developed an AI-based static analysis and automated reporting framework for open-source vulnerabilities.</li>
         <li>Integrated GitHub workflow automation and NLP-based risk summarization.</li>
         <li>Led backend and AI system design using Flask and FastAPI.</li>
@@ -223,6 +223,23 @@
       </div>
     </td>
   </tr>
+
+  <tr>
+    <td align="center">[2]</td>
+    <td>
+      <b>C-STAR</b><br>
+      <sub>Cost-Aware Adaptive Learning under Concept Drift for Android Malware Detection</sub>
+    </td>
+    <td>
+      <ul style="padding-left:18px; margin:0;">
+        <li>Proposed a drift-aware Android malware detection framework that determines when to update and how much to update under resource constraints.</li>
+        <li>Combined structural drift monitoring, informative sample prioritization, and cost-aware update optimization for selective model adaptation.</li>
+        <li>Reduced update data usage, computational overhead, and forgetting risk while maintaining detection performance comparable to cumulative retraining.</li>
+      </ul>
+    </td>
+    <td align="center"></td>
+  </tr>
+
   <tr>
     <td align="center">[3]</td>
     <td>
@@ -230,18 +247,14 @@
       <sub>Adapter-Based Logit Calibration for Concept Drift in Android Malware Detection</sub>
     </td>
     <td>
-      <ul>
+      <ul style="padding-left:18px; margin:0;">
         <li>Proposed a lightweight adaptation module for Android malware detection under concept drift.</li>
         <li>Calibrated frozen backbone outputs using security descriptors, latent features, and base logits without full model retraining.</li>
         <li>Introduced sample-wise scaling, bias, and residual correction to adjust prediction logits under distribution shifts.</li>
         <li>Demonstrated improved F1-score and accuracy across 2019–2023 compared with additive adapter and pure MLP baselines.</li>
       </ul>
     </td>
-    <td align="center">
-      <div>
-        <sub>Paper</sub>
-      </div>
-    </td>
+    <td align="center"></td>
   </tr>
 
   <tr>
