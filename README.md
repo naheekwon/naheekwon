@@ -223,6 +223,26 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td align="center">[3]</td>
+    <td>
+      <b>SCA: Security-Calibrated Adapter</b><br>
+      <sub>Adapter-Based Logit Calibration for Concept Drift in Android Malware Detection</sub>
+    </td>
+    <td>
+      <ul>
+        <li>Proposed a lightweight adaptation module for Android malware detection under concept drift.</li>
+        <li>Calibrated frozen backbone outputs using security descriptors, latent features, and base logits without full model retraining.</li>
+        <li>Introduced sample-wise scaling, bias, and residual correction to adjust prediction logits under distribution shifts.</li>
+        <li>Demonstrated improved F1-score and accuracy across 2019–2023 compared with additive adapter and pure MLP baselines.</li>
+      </ul>
+    </td>
+    <td align="center">
+      <div>
+        <sub>Paper</sub>
+      </div>
+    </td>
+  </tr>
 
   <tr>
     <td align="center">[2]</td>
