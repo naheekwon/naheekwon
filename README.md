@@ -104,6 +104,13 @@
 
 <div align="center">
 
+### Paper  
+
+| No. | Title & Details |
+|:--:|:--|
+| [1] | Nahee Kwon, **"[C-STAR: Cost-Aware Adaptive Learning under Concept Drift for Android Malware Detection]"**, *SECRYPT 2026*, 2026. — Accepted paper proposing a cost-aware adaptive learning framework for Android malware detection under concept drift, jointly optimizing update timing and update size through structural drift monitoring, informative sample prioritization, and forgetting-aware update optimization. |
+
+
 ## Awards & Scholorships
 
 <table>
