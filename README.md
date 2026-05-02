@@ -117,8 +117,7 @@
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | Nahee Kwon, **"[SCA: A Security Descriptor-Guided Logit Calibration Module for Concept Drift Adaptation in Android Malware Detection]"**, *Korea Computer Congress (KCC) 2026*. <br><br> — Submitted paper proposing a security descriptor-guided logit calibration module for Android malware detection under concept drift. SCA calibrates the backbone model's base logit using security descriptors, latent features, and sample-specific scale, bias, and residual corrections, enabling lightweight adaptation to distribution shifts without full model retraining. |
-
+| [1] | Nahee Kwon, **"[SCA: A Security Descriptor-Guided Logit Calibration Module for Concept Drift Adaptation in Android Malware Detection]"**, *Korea Computer Congress (KCC) 2026*. — Submitted paper proposing a security descriptor-guided logit calibration module for Android malware detection under concept drift. SCA calibrates the backbone model's base logit using security descriptors, latent features, and sample-specific scale, bias, and residual corrections, enabling lightweight adaptation to distribution shifts without full model retraining. |
 <br/>
 <br/>
 
