@@ -104,12 +104,18 @@
 
 <div align="center">
 
-## Paper  
+## International Conference
 
 | No. | Title & Details |
 |:--:|:--|
 | [1] | Nahee Kwon, **"[C-STAR: Cost-Aware Adaptive Learning under Concept Drift for Android Malware Detection]"**, *SECRYPT 2026*. — Accepted paper proposing a cost-aware adaptive learning framework for Android malware detection under concept drift, jointly optimizing update timing and update size through structural drift monitoring, informative sample prioritization, and forgetting-aware update optimization. |
 
+<br/>
+<br/>
+
+## Domestic Conference
+|:--:|:--|
+| [1] | Nahee Kwon, **"[SCA: A Security Descriptor-Guided Logit Calibration Module for Concept Drift Adaptation in Android Malware Detection]"**, *Korea Computer Congress (KCC) 2026*. — Submitted paper proposing a security descriptor-guided logit calibration module for Android malware detection under concept drift. SCA calibrates the backbone model's base logit using security descriptors, latent features, and sample-specific scale, bias, and residual corrections, enabling lightweight adaptation to distribution shifts without full model retraining. |
 <br/>
 <br/>
 
