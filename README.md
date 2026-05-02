@@ -199,6 +199,9 @@
   </tr>
 </table>
 
+<br/>
+<br/>
+
 ## Projects
 
 <table>
