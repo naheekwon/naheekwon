@@ -121,90 +121,83 @@
 <br/>
 <br/>
 
-## Awards & Scholorships
+## Awards & Scholarships
 
 <table>
   <tr>
-    <th align="center" width="30%">Date</th>
-    <th align="center" width="55%">Award</th>
-    <th align="center" width="15%">Organization</th>
+    <th align="center" width="25%">Date</th>
+    <th align="center" width="55%">Award / Scholarship</th>
+    <th align="center" width="20%">Organization</th>
   </tr>
 
-  <!-- Awards -->
+  <tr>
+    <td align="center">Feb 2025, Feb 2026</td>
+    <td>
+      <b>Academic Excellence Scholarship (2 Times)</b>
+      <ul>
+        <li>Awarded twice for high academic achievement.</li>
+      </ul>
+    </td>
+    <td align="center">Dankook University</td>
+  </tr>
+
   <tr>
     <td align="center">Dec 2025</td>
-    <td align="center">
+    <td>
       <b>Cyber Security Contest 1st Place Award</b>
-      <ul align="center">
-        <li>“A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone”</li>
-        <li>Implemented isolated secret-based computation for PQC Kyber</li>
+      <ul>
+        <li>Presented the paper “A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone.”</li>
+        <li>Implemented secret-isolated computation for ML-KEM/Kyber in an ARM TrustZone-based environment.</li>
       </ul>
     </td>
     <td align="center">Dankook University, Department of Cybersecurity</td>
   </tr>
 
   <tr>
+    <td align="center">Dec 2024, Dec 2025</td>
+    <td>
+      <b>Mileage Scholarship (2 Times)</b>
+      <ul>
+        <li>Awarded twice based on accumulated academic and extracurricular achievements.</li>
+      </ul>
+    </td>
+    <td align="center">Dankook University</td>
+  </tr>
+
+  <tr>
     <td align="center">Sep 2025</td>
-    <td align="center">
+    <td>
       <b>Participation Prize (3rd Place) — Dankook Startup Hackathon</b>
-      <ul align="center">
-        <li>Lead developer and planner of <em>Ddobak</em>, an LLM-based speech correction application</li>
-        <li>Recognized for innovative AI-driven assistive healthcare design</li>
+      <ul>
+        <li>Served as lead developer and planner of <em>Ddobak</em>, an LLM-based speech correction application.</li>
+        <li>Recognized for innovative AI-driven assistive healthcare design.</li>
       </ul>
     </td>
     <td align="center">Dankook University, National Center of Excellence in Software</td>
   </tr>
 
-  <!-- Scholarships -->
-  <tr>
-    <td align="center">Mar 2022</td>
-    <td align="center">
-      <b>Admission Merit Scholarship</b>
-      <ul align="center">
-        <li>Awarded based on outstanding academic performance at admission</li>
-      </ul>
-    </td>
-    <td align="center">Dankook University</td>
-  </tr>
-
-  <tr>
-    <td align="center">Dec 2024 & Dec 2025</td>
-    <td align="center">
-      <b>Mileage Scholarship (2 Times)</b>
-      <ul align="center">
-        <li>Awarded twice based on accumulated academic and extracurricular achievements</li>
-      </ul>
-    </td>
-    <td align="center">Dankook University</td>
-  </tr>
-
-  <tr>
-    <td align="center">Feb 2025 & Feb 2026</td>
-    <td align="center">
-      <b>Academic Excellence Scholarship (2 Times)</b>
-      <ul align="center">
-        <li>Awarded for high academic achievement</li>
-      </ul>
-    </td>
-    <td align="center">Dankook University</td>
-  </tr>
-
   <tr>
     <td align="center">Sep 2025</td>
-    <td align="center">
+    <td>
       <b>Danu Scholarship</b>
-      <ul align="center">
-        <li>Awarded for academic merit and contribution to university community</li>
+      <ul>
+        <li>Awarded for academic merit and contribution to the university community.</li>
+      </ul>
+    </td>
+    <td align="center">Dankook University</td>
+  </tr>
+
+  <tr>
+    <td align="center">Mar 2022</td>
+    <td>
+      <b>Admission Merit Scholarship</b>
+      <ul>
+        <li>Awarded based on outstanding academic performance at admission.</li>
       </ul>
     </td>
     <td align="center">Dankook University</td>
   </tr>
 </table>
-
-<br/>
-<br/>
-
-<div align="center">
 
 ## Projects
 
