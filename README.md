@@ -121,12 +121,12 @@
 <br/>
 <br/>
 
-## Awards & Scholarships
+## Scholarships
 
 <table>
   <tr>
     <th align="center" width="25%">Date</th>
-    <th align="center" width="55%">Award / Scholarship</th>
+    <th align="center" width="55%">Scholarship</th>
     <th align="center" width="20%">Organization</th>
   </tr>
 
@@ -142,18 +142,6 @@
   </tr>
 
   <tr>
-    <td align="center">Dec 2025</td>
-    <td>
-      <b>Cyber Security Contest 1st Place Award</b>
-      <ul>
-        <li>Presented the paper “A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone.”</li>
-        <li>Implemented secret-isolated computation for ML-KEM/Kyber in an ARM TrustZone-based environment.</li>
-      </ul>
-    </td>
-    <td align="center">Dankook University, Department of Cybersecurity</td>
-  </tr>
-
-  <tr>
     <td align="center">Dec 2024, Dec 2025</td>
     <td>
       <b>Mileage Scholarship (2 Times)</b>
@@ -162,18 +150,6 @@
       </ul>
     </td>
     <td align="center">Dankook University</td>
-  </tr>
-
-  <tr>
-    <td align="center">Sep 2025</td>
-    <td>
-      <b>Participation Prize (3rd Place) — Dankook Startup Hackathon</b>
-      <ul>
-        <li>Served as lead developer and planner of <em>Ddobak</em>, an LLM-based speech correction application.</li>
-        <li>Recognized for innovative AI-driven assistive healthcare design.</li>
-      </ul>
-    </td>
-    <td align="center">Dankook University, National Center of Excellence in Software</td>
   </tr>
 
   <tr>
@@ -196,6 +172,43 @@
       </ul>
     </td>
     <td align="center">Dankook University</td>
+  </tr>
+</table>
+
+<br/>
+<br/>
+
+## Awards
+
+<table>
+  <tr>
+    <th align="center" width="25%">Date</th>
+    <th align="center" width="55%">Award</th>
+    <th align="center" width="20%">Organization</th>
+  </tr>
+
+  <tr>
+    <td align="center">Dec 2025</td>
+    <td>
+      <b>Cyber Security Contest 1st Place Award</b>
+      <ul>
+        <li>Presented the paper “A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone.”</li>
+        <li>Implemented secret-isolated computation for ML-KEM/Kyber in an ARM TrustZone-based environment.</li>
+      </ul>
+    </td>
+    <td align="center">Dankook University, Department of Cybersecurity</td>
+  </tr>
+
+  <tr>
+    <td align="center">Sep 2025</td>
+    <td>
+      <b>Participation Prize (3rd Place) — Dankook Startup Hackathon</b>
+      <ul>
+        <li>Served as lead developer and planner of <em>Ddobak</em>, an LLM-based speech correction application.</li>
+        <li>Recognized for innovative AI-driven assistive healthcare design.</li>
+      </ul>
+    </td>
+    <td align="center">Dankook University, National Center of Excellence in Software</td>
   </tr>
 </table>
 
