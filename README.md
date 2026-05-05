@@ -104,7 +104,7 @@
 
 <div align="center">
 
-## International Conference
+## International Conference Paper
 
 | No. | Title & Details |
 |:--:|:--|
@@ -113,7 +113,7 @@
 <br/>
 <br/>
 
-## Domestic Conferences
+## Domestic Conference Papers
 
 | No. | Title & Details |
 |:--:|:--|
