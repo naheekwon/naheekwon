@@ -95,7 +95,7 @@
 
 • Period: Mar 2021 – Expected Jan 2027<br>
 • Location: Yongin, Republic of Korea<br>
-## • GPA: 3.95 / 4.5<br>
+<!-- • GPA: 3.95 / 4.5<br> -->
 • Status: Undergraduate (Junior)
 
 </div>
