@@ -122,6 +122,11 @@
 <br/>
 
 ## Domestic Journal
+
+| No. | Title & Details |
+|:--:|:--|
+| [1] | Nahee Kwon **(First Author)**, **"[An Explainable Android Malware Detection Framework via Louvain Community-Level Structural Attribution]"**, *KCI Journal* — Under Review. Proposed an Auto-XAI framework that decomposes global drift signals into community-level structural evidence using Louvain community analysis, API co-occurrence graphs, and SNA-based attribution for explainable Android malware detection under concept drift. |
+
 <br/>
 <br/>
 
