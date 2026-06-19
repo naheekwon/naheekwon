@@ -117,7 +117,7 @@
 | No. | Title & Details |
 |:--:|:--|
 | [1] | Nahee Kwon **(First Author)**, **"[SCA: A Security Descriptor-Guided Logit Calibration Module for Concept Drift Adaptation in Android Malware Detection]"**, *Korea Computer Congress (KCC) 2026*. **Accepted for Oral Presentation.** — Proposes a security descriptor-guided logit calibration module for Android malware detection under concept drift. SCA calibrates the backbone model's base logit using security descriptors, latent features, and sample-specific scale, bias, and residual corrections, enabling lightweight adaptation to distribution shifts without full model retraining. |
-| [2] | Nahee Kwon **(Co-First Author)**, **"[A Lightweight ML-KEM Architecture via Secret-Dependency-Based Partitioning for Embedded TrustZone-A Systems]"**, *Korea Computer Congress (KCC) 2026*. **Accepted for Oral Presentation. 🏆 Outstanding Paper Award.** — ... — Proposes a lightweight split architecture for secure ML-KEM deployment in embedded ARM TrustZone-A systems. The architecture partitions ML-KEM operations based on secret-key dependency and secret-output generation, keeping secret-dependent computations and shared secret generation inside the Secure World while offloading public computations to the Normal World, reducing Secure World TCB and overall latency. |
+| [2] | Nahee Kwon **(Co-First Author)**, **"[A Lightweight ML-KEM Architecture via Secret-Dependency-Based Partitioning for Embedded TrustZone-A Systems]"**, *Korea Computer Congress (KCC) 2026*. **Accepted for Oral Presentation. 🏆 Outstanding Paper Award.** — Proposes a lightweight split architecture for secure ML-KEM deployment in embedded ARM TrustZone-A systems. The architecture partitions ML-KEM operations based on secret-key dependency and secret-output generation, keeping secret-dependent computations and shared secret generation inside the Secure World while offloading public computations to the Normal World, reducing Secure World TCB and overall latency. |
 
 <br/>
 <br/>
@@ -195,6 +195,19 @@
     <th align="center" width="25%">Date</th>
     <th align="center" width="55%">Award</th>
     <th align="center" width="20%">Organization</th>
+  </tr>
+
+  <tr>
+    <td align="center">Jun 2026</td>
+    <td>
+      <b> Outstanding Paper Award — Korea Computer Congress (KCC) 2026</b>
+      <ul>
+        <li>Presented the paper <em>"A Lightweight ML-KEM Architecture via Secret-Dependency-Based Partitioning for Embedded TrustZone-A Systems"</em>.</li>
+        <li>Proposed a lightweight split architecture for secure ML-KEM deployment in embedded ARM TrustZone-A systems.</li>
+        <li>Reduced Trusted Computing Base (TCB) size and execution latency by isolating secret-dependent operations in the Secure World while offloading public computations to the Normal World.</li>
+      </ul>
+    </td>
+    <td align="center">Korea Computer Society (KCC 2026)</td>
   </tr>
 
   <tr>
