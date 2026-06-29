@@ -200,7 +200,8 @@
   <tr>
     <td align="center">Jun 2026</td>
     <td>
-      <b> Outstanding Paper Award — Korea Computer Congress (KCC) 2026</b>
+     <b>Outstanding Paper Award — Korea Computer Congress (KCC) 2026</b>
+<sub><a href="./assets/awards/KCC%20우수논문상.pdf">📄 Certificate</a></sub>
       <ul>
         <li>Presented the paper <em>"A Lightweight ML-KEM Architecture via Secret-Dependency-Based Partitioning for Embedded TrustZone-A Systems"</em>.</li>
         <li>Proposed a lightweight split architecture for secure ML-KEM deployment in embedded ARM TrustZone-A systems.</li>
