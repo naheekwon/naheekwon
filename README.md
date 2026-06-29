@@ -140,6 +140,17 @@
     <th align="center" width="20%">Organization</th>
   </tr>
 
+<tr>
+  <td align="center">Aug 2026</td>
+  <td>
+    <b>Department Specialization Scholarship</b>
+    <ul>
+      <li>Awarded for outstanding academic achievement in the Department of Cybersecurity.</li>
+    </ul>
+  </td>
+  <td align="center">Department of Cybersecurity, Dankook University</td>
+</tr>
+
   <tr>
     <td align="center">Feb 2025, Feb 2026</td>
     <td>
