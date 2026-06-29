@@ -141,7 +141,7 @@
   </tr>
 
 <tr>
-  <td align="center">Aug 2026</td>
+  <td align="center">Jun 2026</td>
   <td>
     <b>Department Specialization Scholarship</b>
     <ul>
