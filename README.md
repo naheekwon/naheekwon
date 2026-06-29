@@ -215,6 +215,7 @@
     <td align="center">Dec 2025</td>
     <td>
       <b>Cyber Security Contest 1st Place Award</b>
+<sup><a href="./assets/awards/csc논문대회상장.pdf">[Certificate]</a></sup>
       <ul>
         <li>Presented the paper “A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone.”</li>
         <li>Implemented secret-isolated computation for ML-KEM/Kyber in an ARM TrustZone-based environment.</li>
