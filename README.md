@@ -153,6 +153,17 @@
 </tr>
 
 <tr>
+  <td align="center">Aug 2026</td>
+  <td>
+    <b>Research Paper Scholarship</b>
+    <ul>
+      <li>Awarded for publishing a research paper at a domestic academic conference.</li>
+    </ul>
+  </td>
+  <td align="center">Dankook University</td>
+</tr>
+
+<tr>
   <td align="center">Jun 2026</td>
   <td>
     <b>Department Specialization Scholarship</b>
