@@ -69,10 +69,8 @@
         <li><b>Supervisor:</b> Prof. Seong-je Cho</li>
         <li><b>Period:</b> Mar 2025 – Present</li>
         <li><b>Location:</b> Yongin, Republic of Korea</li>
-        <li>Investigating TEE-based secure deployment of PQC on ARM TrustZone</li>
         <li>Researching Android Secure IDS with: <br><b>Illinois State University</b> (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</li>
         <li>Researching AI based Android Malware Detection with: <br><b>University  of Southampton</b> (Advisor: Prof. Boojoong Kang)</li>
-        <li>Researching System Security with: <br><b>Seoul National University</b> (Advisor: Prof. Jiwon Seo, Ph.D Martin Kayondo)</li>
       </ul>
       <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
     </td>
