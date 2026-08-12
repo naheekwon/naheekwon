@@ -141,18 +141,16 @@
   </tr>
 
 
-
 <tr>
   <td align="center">Aug 2026</td>
   <td>
-    <b>Department Rank 1 Scholarship</b>
+    <b>Academic Excellence Scholarship (1st in Year)</b>
     <ul>
-      <li>Awarded for achieving the highest academic ranking in the department.</li>
+      <li>Awarded for achieving the highest academic performance among students in the same year.</li>
     </ul>
   </td>
   <td align="center">Dankook University</td>
 </tr>
-
 
 <tr>
   <td align="center">Jun 2026</td>
