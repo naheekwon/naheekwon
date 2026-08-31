@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td align="center"><strong>Focus</strong></td>
-    <td align="center">AI-driven Android & Embedded Security</td>
+    <td align="center">AI-driven Android</td>
   </tr>
   <tr>
     <td align="center"><strong>Exploring</strong></td>
