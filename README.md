@@ -94,7 +94,7 @@
 • Period: Mar 2022 – Expected Jan 2027<br>
 • Location: Yongin, Republic of Korea<br>
 • Status: Undergraduate (Junior)<br>
-• GPA: 4.03 / 4.5<br> 
+• GPA: 4.06 / 4.5<br> 
 </div>
 <br/>
 <br/>
@@ -124,7 +124,7 @@
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | Nahee Kwon **(First Author)**, **"[An Explainable Android Malware Detection Framework via Louvain Community-Level Structural Attribution]"**, *KCI Journal* — Under Review. Proposed an Auto-XAI framework that decomposes global drift signals into community-level structural evidence using Louvain community analysis, API co-occurrence graphs, and SNA-based attribution for explainable Android malware detection under concept drift. |
+| [1] | Nahee Kwon **(First Author)**, **"[An Explainable Android Malware Detection Framework via Louvain Community-Level Structural Attribution]"**, *KCI Journal* —  Proposed an Auto-XAI framework that decomposes global drift signals into community-level structural evidence using Louvain community analysis, API co-occurrence graphs, and SNA-based attribution for explainable Android malware detection under concept drift. |
 
 <br/>
 <br/>
