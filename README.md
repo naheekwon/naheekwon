@@ -67,7 +67,7 @@
       <ul style="margin-top:4px;">
         <li><b>Position:</b> Research Intern</li>
         <li><b>Supervisor:</b> Prof. Seong-je Cho</li>
-        <li><b>Period:</b> Mar 2025 – Present</li>
+        <li><b>Period:</b> Sep 2025 – Present</li>
         <li><b>Location:</b> Yongin, Republic of Korea</li>
         <li>Researching Android Secure IDS with: <br><b>Illinois State University</b> (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</li>
         <li>Researching AI based Android Malware Detection with: <br><b>University  of Southampton</b> (Advisor: Prof. Boojoong Kang)</li>
