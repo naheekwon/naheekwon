@@ -275,28 +275,19 @@
 ## Projects
 
 <table>
- <tr>
-  <th width="40">No.</th>
-  <th width="360">Project</th>
+<tr>
+  <th>No.</th>
+  <th>Project</th>
   <th>Description</th>
-  <th width="90">Links</th>
+  <th>Links</th>
 </tr>
 
 <tr>
   <td align="center">[1]</td>
-<td width="360" valign="middle">
-  <img
-    src="./images/LV.0%20로고.png"
-    alt="LV.0 logo"
-    width="80"
-    align="right"
-  />
-  <b>LV.0</b><br>
-  <sub>
-    LLM Vulnerability Zero<br>
-    LLM-powered Security Vulnerability Reporter
-  </sub>
-</td>
+  <td>
+    <b>LV.0: LLM Vulnerability Zero</b><br>
+    <sub>LLM-powered Security Vulnerability Reporter</sub>
+  </td>
   <td>
     <ul style="padding-left:18px; margin:0;">
       <li>Developed an AI-based static analysis and automated reporting framework for open-source vulnerabilities.</li>
@@ -307,18 +298,10 @@
   <td align="center">
     <div>
       <a href="https://github.com/Gaurdians-of-the-Open-Source">
-        <img
-          src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"
-          width="90"
-          alt="GitHub"
-        />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="90"/>
       </a><br>
       <a href="https://www.figma.com/design/DBPWTrTOebcozDLL7TA2B8/Open-Source-Developer-Competition?node-id=23-3">
-        <img
-          src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"
-          width="90"
-          alt="Figma"
-        />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" width="90"/>
       </a>
     </div>
   </td>
