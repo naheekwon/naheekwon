@@ -285,12 +285,12 @@
 <tr>
   <td align="center">[1]</td>
   <td valign="middle">
-    <img
-      src="./images/LV.0로고.png"
-      alt="LV.0 logo"
-      width="48"
-      align="left"
-    />
+  <img
+  src="./images/LV.0%20로고.png"
+  alt="LV.0 logo"
+  width="48"
+  align="left"
+/>
     <b>&nbsp;LV.0</b><br>
     &nbsp;LLM Vulnerability Zero
     <br clear="all"><br>
