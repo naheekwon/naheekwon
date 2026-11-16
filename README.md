@@ -306,6 +306,30 @@
       </div>
     </td>
   </tr>
+
+  <tr>
+  <td align="center">[2]</td>
+  <td>
+    <b>SecureDroid</b><br>
+    <sub>Android API Structure Analysis and Evidence-Based Security Checks</sub>
+  </td>
+  <td>
+    <ul style="padding-left:18px; margin:0;">
+      <li>Developed a web-based tool for analyzing structural deviations in Android API usage.</li>
+      <li>Implemented community-removal sensitivity analysis and interactive API graph exploration.</li>
+      <li>Connected observed API functions to conditional security checks supported by official documentation.</li>
+    </ul>
+  </td>
+  <td align="center">
+    <a href="https://github.com/naheekwon/SecureDroid">
+      <img
+        src="https://img.shields.io/badge/GitHub-Private-181717?style=flat-square&logo=github&logoColor=white"
+        width="110"
+        alt="GitHub · Private"
+      />
+    </a>
+  </td>
+</tr>
 </table>
 
 
