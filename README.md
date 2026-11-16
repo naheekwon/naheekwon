@@ -285,10 +285,10 @@
 <tr>
   <td align="center">[1]</td>
   <td valign="middle">
-  <img
+<img
   src="./images/LV.0%20로고.png"
   alt="LV.0 logo"
-  width="48"
+  width="80"
   align="left"
 />
     <b>&nbsp;LV.0</b><br>
@@ -339,7 +339,7 @@
     <a href="https://github.com/naheekwon/SecureDroid">
       <img
         src="https://img.shields.io/badge/GitHub-Private-181717?style=flat-square&logo=github&logoColor=white"
-        width="110"
+        width="90"
         alt="GitHub · Private"
       />
     </a>
