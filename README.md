@@ -275,27 +275,26 @@
 ## Projects
 
 <table>
-  <tr>
-    <th style="width:4%">No.</th>
-    <th style="width:22%">Project</th>
-    <th style="width:60%">Description</th>
-    <th style="width:14%">Links</th>
-  </tr>
+ <tr>
+  <th width="40">No.</th>
+  <th width="360">Project</th>
+  <th>Description</th>
+  <th width="90">Links</th>
+</tr>
 
 <tr>
   <td align="center">[1]</td>
-<td valign="middle">
+<td width="360" valign="middle">
   <img
     src="./images/LV.0%20로고.png"
     alt="LV.0 logo"
-    width="70"
+    width="80"
     align="right"
   />
   <b>LV.0</b><br>
   <sub>
     LLM Vulnerability Zero<br>
-    LLM-powered Security<br>
-    Vulnerability Reporter
+    LLM-powered Security Vulnerability Reporter
   </sub>
 </td>
   <td>
