@@ -284,18 +284,18 @@
 
 <tr>
   <td align="center">[1]</td>
-  <td valign="middle">
-<img
-  src="./images/LV.0%20로고.png"
-  alt="LV.0 logo"
-  width="80"
-  align="left"
-/>
-    <b>&nbsp;LV.0</b><br>
-    &nbsp;LLM Vulnerability Zero
-    <br clear="all"><br>
-    <sub>LLM-powered Security Vulnerability Reporter</sub>
-  </td>
+ <td valign="middle">
+  <img
+    src="./images/LV.0%20로고.png"
+    alt="LV.0 logo"
+    width="80"
+    align="right"
+  />
+  <b>LV.0</b><br>
+  LLM Vulnerability Zero
+  <br clear="all"><br>
+  <sub>LLM-powered Security Vulnerability Reporter</sub>
+</td>
   <td>
     <ul style="padding-left:18px; margin:0;">
       <li>Developed an AI-based static analysis and automated reporting framework for open-source vulnerabilities.</li>
