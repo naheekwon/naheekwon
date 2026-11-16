@@ -284,17 +284,19 @@
 
 <tr>
   <td align="center">[1]</td>
- <td valign="middle">
+<td valign="middle">
   <img
     src="./images/LV.0%20로고.png"
     alt="LV.0 logo"
-    width="80"
+    width="70"
     align="right"
   />
   <b>LV.0</b><br>
-  LLM Vulnerability Zero
-  <br clear="all"><br>
-  <sub>LLM-powered Security Vulnerability Reporter</sub>
+  <sub>
+    LLM Vulnerability Zero<br>
+    LLM-powered Security<br>
+    Vulnerability Reporter
+  </sub>
 </td>
   <td>
     <ul style="padding-left:18px; margin:0;">
